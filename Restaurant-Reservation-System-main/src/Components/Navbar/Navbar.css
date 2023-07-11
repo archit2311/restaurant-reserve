@@ -1,0 +1,43 @@
+/* Navbar */
+.navbar {
+  padding: 1rem;
+}
+
+.navbar_logo img {
+  height: 40px;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler-icon {
+  background-color: white;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 1rem;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  font-size: 1rem;
+  transition: color 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: gray;
+}
+
+#booktable .nav-link {
+  background-color: white;
+  color: #333;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+#booktable .nav-link:hover {
+  background-color: #ffc107;
+}
+  

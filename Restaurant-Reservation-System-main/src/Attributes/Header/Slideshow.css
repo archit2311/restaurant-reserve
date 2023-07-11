@@ -1,0 +1,28 @@
+/* Slideshow */
+
+.slideshow {
+    margin-left: 56%;
+    margin-top: 1%;
+    overflow: hidden;
+    max-width: 600px;
+
+  }
+  
+  .slideshowSlider {
+    white-space: nowrap;
+    transition: ease 2000ms;
+  }
+  
+  .slide {
+    display: inline-block;
+  
+    height: 600px;
+    width: 100%;
+    border-radius: 40px;
+  }
+
+  
+
+  
+ 
+  

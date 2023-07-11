@@ -1,0 +1,52 @@
+*{
+  font-family: 'Inter', sans-serif;
+}
+.app__wrapper_info {
+  display: inline-block;
+  background-color: white;
+  color: black;
+  height: 100vh;
+}
+.text-container {
+  margin-left: 2%;
+  margin-top: 10%;
+  text-align: center;
+}
+
+.slideshow-container {
+  margin-top: -30%;
+}
+
+.app__header-h1 {
+  margin-left: 10px;
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  line-height: 117px;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
+
+#p1 {
+  text-align:center;
+  color: black; 
+  font-family: 'Lucida Sans', Arial, sans-serif; 
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+
+  
+}
+
+.btn2{
+  background-color: green;
+  color: white;
+  padding: 1rem 4rem;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-top: 2rem;
+}
